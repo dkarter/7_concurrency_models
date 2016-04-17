@@ -2,6 +2,7 @@
 class Counter {
   private int count = 0;
 
+  // SOLUTION
   // public synchronized void increment() {
   public void increment() {
     count++;
